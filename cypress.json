@@ -1,0 +1,8 @@
+{  "$schema": "https://on.cypress.io/cypress.schema.json",
+    "viewportHeight": 607,
+    "viewportWidth": 1400,
+    "baseUrl": "https://erpforme-hml.alterdata.com.br/",
+    "projectId": "ehz3wk",
+    "experimentalSessionSupport" : true    
+    
+}
